@@ -21,7 +21,7 @@ $ npm -g install typings
 ```
 $ cd TypeScriptSeedApp-master
 $ npm install
-$ typings install
+$ tsd install
 ```
 
 3) Open in VS Code
