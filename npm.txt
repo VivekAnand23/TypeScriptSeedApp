@@ -1,0 +1,1 @@
+npm install  --save-dev browser-sync browserify chai tslint typescript gulp gulp-istanbul gulp-mocha gulp-sourcemaps gulp-tslint gulp-typescript gulp-uglify run-sequence vinyl-buffer vinyl-source-stream

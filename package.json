@@ -1,0 +1,41 @@
+{
+  "name": "ts-vscode-boilerplate",
+  "version": "1.0.0",
+  "description": "Visual Studio Code TypeScript boilerplate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp lint && gulp build && gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekAnand23/TypeScriptSeedApp.git"
+  },
+  "author": "Vivek Anand",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "browserify": "^13.0.1",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^6.0.1",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^2.2.4",
+    "run-sequence": "^1.2.2",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
