@@ -6,7 +6,7 @@ TypeScript Seed project.
 1) Download `.zip` and unzip it:
 ```
 $ wget https://github.com/VivekAnand23/TypeScriptSeedApp.git
-$ unzip master.zip
+$ unzip TypeScriptSeedApp-master.zip
 ```
 
 2) Install dependencies and their type definitions:
@@ -19,7 +19,7 @@ $ npm -g install typings
 ```
 
 ```
-$ cd ts-vscode-boilerplate
+$ cd TypeScriptSeedApp-master
 $ npm install
 $ typings install
 ```
