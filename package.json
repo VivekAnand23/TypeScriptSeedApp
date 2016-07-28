@@ -1,5 +1,5 @@
 {
-  "name": "ts-vscode-boilerplate",
+  "name": "typescript-seed-app",
   "version": "1.0.0",
   "description": "Visual Studio Code TypeScript boilerplate",
   "main": "index.js",

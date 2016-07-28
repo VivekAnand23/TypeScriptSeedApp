@@ -1,5 +1,5 @@
 # TypeScriptSeedApp
-TypeScript Seed project.
+Base/Boilerplate code for TypeScript based application with testing framework Mocha/Chai integration
 
 # How to use this template?
 
@@ -21,7 +21,7 @@ $ npm -g install typings
 ```
 $ cd TypeScriptSeedApp-master
 $ npm install
-$ typings install
+$ tsd install
 ```
 
 3) Open in VS Code
